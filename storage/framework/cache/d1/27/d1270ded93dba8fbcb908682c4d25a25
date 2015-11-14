@@ -1,0 +1,49 @@
+1447461996s:1639:"a:6:{s:5:"mtime";i:1447169841;s:7:"content";s:721:"title = 404
+url = "/404"
+layout = "minimal"
+description = "Page not found"
+is_hidden = 0
+==
+<style>
+    .wrapper {
+        margin: 50px auto;
+        text-align: center;
+    }
+    .big-orange-circle {
+        margin: 0 auto 20px;
+        width: 200px;
+        line-height: 200px;
+        color: white;
+        font-size: 5em;
+        background-color: #e67e22;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+    }
+</style>
+<div class="wrapper">
+    <div class="big-orange-circle">404</div>
+    <p class="lead"><strong>Rất tiếc, trang này không tồn tại :(</strong></p>
+    <a href="/" class="btn btn-success">Quay về trang chủ</a>
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:6:{s:5:"title";s:3:"404";s:3:"url";s:4:"/404";s:6:"layout";s:7:"minimal";s:11:"description";s:14:"Page not found";s:9:"is_hidden";s:1:"0";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:629:"<style>
+    .wrapper {
+        margin: 50px auto;
+        text-align: center;
+    }
+    .big-orange-circle {
+        margin: 0 auto 20px;
+        width: 200px;
+        line-height: 200px;
+        color: white;
+        font-size: 5em;
+        background-color: #e67e22;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+    }
+</style>
+<div class="wrapper">
+    <div class="big-orange-circle">404</div>
+    <p class="lead"><strong>Rất tiếc, trang này không tồn tại :(</strong></p>
+    <a href="/" class="btn btn-success">Quay về trang chủ</a>
+</div>";}";

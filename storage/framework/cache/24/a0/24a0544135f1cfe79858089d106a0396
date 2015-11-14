@@ -1,0 +1,25 @@
+1447461996s:1075:"a:6:{s:5:"mtime";i:1447079919;s:7:"content";s:457:"[viewBag]
+==
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-xs-12 text-left">
+                <span>&copy; 2015 Hoang Gia An Co, Ltd. All rights reserved <!-- &trade; --></span>
+            </div>
+            <div class="col-md-4 hidden-xs text-right">
+                <a href="#top" id="go-top"><i class="fa fa-chevron-up"></i></a>
+            </div>
+        </div>
+    </div>
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:1:{s:7:"viewBag";a:0:{}}}s:4:"code";N;s:6:"markup";s:444:"<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-xs-12 text-left">
+                <span>&copy; 2015 Hoang Gia An Co, Ltd. All rights reserved <!-- &trade; --></span>
+            </div>
+            <div class="col-md-4 hidden-xs text-right">
+                <a href="#top" id="go-top"><i class="fa fa-chevron-up"></i></a>
+            </div>
+        </div>
+    </div>
+</div>";}";
